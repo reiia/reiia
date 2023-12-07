@@ -1,16 +1,13 @@
-### Hi there 👋
+** Hi there, Welcome !👋
 
-<!--
-**reiia/reiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Denz!
 
-Here are some ideas to get you started:
+## 🔭 Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page.
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: ougi. (Discord), razal.117675120048@depedqc.ph (Gmail)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I don't have a fun fact :( 
+
+Thanks for visiting my profile! 😊
